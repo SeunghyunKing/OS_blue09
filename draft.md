@@ -21,7 +21,7 @@
 ----
 
 
-### 1. 첫번재 NO, Free
+### * 첫번재 NO, Free
 
 
 - *오픈소스는*   무료 소프트웨어가 아닌 "자유 소프트웨어" 이다.  
@@ -41,7 +41,7 @@
 
 
 
-### 2. 공개적 협업 (Public Collaboration)
+### * 공개적 협업 (Public Collaboration)
 
 
 ----
