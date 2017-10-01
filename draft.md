@@ -1,17 +1,17 @@
 # 1.오픈소스란 무엇인가? #
 
 
-## 오픈소스의 정의
+## 오픈소스는
 
 
 ----
 
 
-**요** 즘 세상은 제4차 산업혁명의 시대에 다다랐고 인공지능, 사물인터넷, 빅데이터와 관련된 분야들이 집중받고 있는게 현실이다.
+**요즘** 세상은 제4차 산업혁명의 시대에 다다랐고 인공지능, 사물인터넷, 빅데이터와 관련된 분야들이 집중받고 있는게 현실이다.
 그렇게 되면 자연스럽게 소프트웨어 산업이 발전하고 소프트웨어의 기술력 수요가 증가하게 되는데, 이런 커져가는 소프트웨어 시장의 핫한 이슈중 하나가 오픈소스 소프트웨어, 오픈소스 라이선스에 관한 것이다.
 이런 오픈소스에 대해 알아보자.
 
-*오픈소스는*   오픈소스 소프트웨어, OSS라고도한다.
+오픈소스는 오픈소스 소프트웨어, OSS라고도한다.
 소프트웨어의 설계도와같은 소스코드를 인터넷을 통해 공개하여 누구나 그 소프트웨어를 개량하고, 그것을 재배포할 수 있도록 하는 것이나 소프트웨어를 의미한다.
 
 
@@ -31,13 +31,7 @@
 즉 자신의 필요에 따라 해당 소스를 이용할 수 있다는 뜻에 더 가깝다.
 
 
-
-### 2. 공개적 협업(public collaboration)
-
-----
-
-
-###오픈소스 구분###
+#### 오픈소스 구분 ####
 
 위에서 설명한것과 같은 오픈소스들을
 무료, 유료 기준과, 공개 비공개 기준으로 간단히 정리하면 이러하다.
@@ -48,11 +42,19 @@
 ----
 
 
-1장에서 설명한 이런 오픈소스는 제4차 산업혁명의 시대에 소프트웨어가 각광받기 시작하면서 처음 생겨나지 않았다.  
-그렇다면 이 오픈소스는 언제부터 생겨난 것이고 어떻게 발전했을까?
+### 2. 공개적 협업 (Public Collaboration)
+
+
+----
+
+
 
 # 2.오픈소스의 역사 #
-#### (Free Software -> OpenSource Software)
+#### (Free Software -> OpenSource Software)  
+
+
+1장에서 설명한 이런 오픈소스는 제4차 산업혁명의 시대에 소프트웨어가 각광받기 시작하면서 처음 생겨나지 않았다.  
+그렇다면 이 오픈소스는 언제부터 생겨난 것이고 어떻게 발전했을까?
 
 
 ----
@@ -69,11 +71,11 @@
 
 **1990년대** 에 들어서면서 인터넷의 보급과 더불어 GNU GPL(General Public License)로 배포된 리눅스의 보급으로 자유소프트웨어 운동이 확산됐고, 1998년에는 Microsoft의 웹브라우저인 익스플로러에 밀려 어려움을 겪고 있던 넷츠케이프(Netscape)사가 웹브라우저 모질라의 소스코드를 공개하는 결정을 하게 됐다. 그 즈음 자유소프트웨어라는 용어에서 오픈소스 소프트웨어로 용어가 변경되는데, 자유(free)란 용어 때문에 일반인들이 무료라고 인식하고 있다는 점, GPL 조항의 엄격성 때문에 소프트웨어 개발이 용이하지 않다는 점을 탈피하기 위해서였다.
 
-이후 1998년 오픈소스 소프트웨어를 인증하는 OSI(Open Source Initiative, www.opensource.org)가 에릭 레이몬드(Eric Raymond) 등에 의해 결성되면서 오픈소스 소프트웨어 운동은 궤도에 오르게 된다.
+**이후** 1998년 오픈소스 소프트웨어를 인증하는 OSI(Open Source Initiative, www.opensource.org)가 에릭 레이몬드(Eric Raymond) 등에 의해 결성되면서 오픈소스 소프트웨어 운동은 궤도에 오르게 된다.
 
 1999 년 10 월까지 OSI는 승인 된 라이선스 의 최초 공식 목록을 발표했다. 그 이후로 수 차례 업데이트 된 OSI 라이선스 목록 은 오픈 소스 라이선스의 정식 목록으로 남아 있으며 정부 및 표준 기관을 포함한 많은 제 3 자에 의해 참조된다.
 
-**2004 년** 오픈 소스 라이선스 수가 급격히 증가했기 때문에 OSI는 오픈 소스 라이선스 수를 줄이기위한 캠페인을 시작했고, 이로 인해 2006 년 라이선스 확산 보고서가 발표 되었으며 사용 목록과 콘텐츠를 기준으로 라이선스 목록을 라이선스 그룹으로 다시 분류했다.  
+**2004년** 오픈 소스 라이선스 수가 급격히 증가했기 때문에 OSI는 오픈 소스 라이선스 수를 줄이기위한 캠페인을 시작했고, 이로 인해 2006 년 라이선스 확산 보고서가 발표 되었으며 사용 목록과 콘텐츠를 기준으로 라이선스 목록을 라이선스 그룹으로 다시 분류했다.  
 OSI의 보고서와 프로세스는 라이선스 확산의 전반적인 문제에 대한 폭 넓은 인식을 높이고 새로운 라이선스의 생성과 사용을 줄이는데 도움이되었다.
 
 
@@ -119,45 +121,44 @@ OSI의 보고서와 프로세스는 라이선스 확산의 전반적인 문제�
 **서버용 오픈소스SW 목록**
 
 -MySQL(http://www.mysql.com)
->분류 : DBMS
->라이선스 : GPL v2
->세계에서 가장 널리 사용되고 있는 대표적인
-관계형 데이터베이스
+>분류 : DBMS  
+>라이선스 : GPL v2  
+>세계에서 가장 널리 사용되고 있는 대표적인 관계형 데이터베이스
 
 
 -Apache Derby(http://db.apache.org/derby)
->분류 : DBMS
->라이선스 : Apache v2
+>분류 : DBMS  
+>라이선스 : Apache v2  
 >IBM에서 기증한 cloudscape 소스 기반으로 개발된 Java 기반의 관계형 데이터베이스
 
 
 Oracle Berkeley DB(http://www.oracle.com/kr/products/database/berkeley-db/index.html)
->분류 : DBMS
->라이선스 : AGPL or commercial, Sleepycat License
+>분류 : DBMS  
+>라이선스 : AGPL or commercial, Sleepycat License  
 >슬리피캣을 인수한 오라클에서 제공하는 고성능 임베디드 데이터베이스
 
 
 CUBRID(http://www.cubrid.com)
->분류 : DBMS
->라이선스 : GPL v2 & BSD
+>분류 : DBMS  
+>라이선스 : GPL v2 & BSD  
 >인터넷 서비스 최적화를 목표로 개발된 국산 엔터프라이즈급 데이터베이스
 
 
 Firebird(http://www.firebirdsql.org)
->분류 : DBMS
->라이선스 : DPL & IPL
+>분류 : DBMS  
+>라이선스 : DPL & IPL  
 >모질라에서 제공하는 관계형 데이터베이스
 
 
 FreeBSD(http://www.freebsd.org)
->분류 : OS(BSD)
->라이선스 : FreeBSD License
+>분류 : OS(BSD)  
+>라이선스 : FreeBSD License  
 >4.4 BSD Lite 2 기반의 정통 유닉스 운영체제
 
 
 Ubuntu(http://www.ubuntu.com)
->분류 : OS(Linux)
->라이선스 : GPL & Various others
+>분류 : OS(Linux)  
+>라이선스 : GPL & Various others  
 >캐노니컬(Canonical)에서 후원하는 데비안 기반의 리눅스 운영체제로 데스크톱 분야에서 가장 많은 유저층을 확보한 인기 있는 배포판
 
 
@@ -165,44 +166,44 @@ Ubuntu(http://www.ubuntu.com)
 **데스크탑용 오픈소스SW 목록**
 
 GnuCash(http://www.gnucash.org)
->분류 : Accounting
->라이선스 : GPL
+>분류 : Accounting  
+>라이선스 : GPL  
 >개인 & 소규모 사업용 회계 프로그램
 
 
 Eclipse(http://www.eclipse.org)
->분류 : Development Environments
->라이선스 : EPL
+>분류 : Development Environments  
+>라이선스 : EPL  
 >자바기반 통합 개발 프로그램
 
 
 Mozilla Thunderbird(http://www.mozilla.org/ko/thunderbird)
->분류 : Editor
->라이선스 : MPL & GPL & LGPL
+>분류 : Editor  
+>라이선스 : MPL & GPL & LGPL  
 >이메일/뉴스 클라이언트
 
 
 Chrome(http://www.chromium.org)
->분류 : Web Browser
->라이선스 : BSD &  Various others
+>분류 : Web Browser  
+>라이선스 : BSD &  Various others  
 >웹 브라우저
 
 
 Mozilla Firefox(http://www.mozilla.org/firefox)
->분류 : Web Browser
->라이선스 : MPL v2
->웹 브라우저
+>분류 : Web Browser  
+>라이선스 : MPL v2  
+>웹 브라우저  
 
 
 Emacs(http://www.gnu.org/software/emacs)
->분류 : Editor
->라이선스 : GPL v3
+>분류 : Editor  
+>라이선스 : GPL v3  
 >GNU 프로젝트의 일부인 고성능 문서 편집기
 
 
 FileZilla(http://filezilla-project.org)
->분류 : FTP
->라이선스 : GPL v2
+>분류 : FTP  
+>라이선스 : GPL v2  
 >고속 FTP 클라이언트/서버
 
 
