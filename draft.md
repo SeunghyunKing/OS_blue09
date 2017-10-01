@@ -39,7 +39,6 @@
 ![Alt text](https://github.com/SeunghyunKing/OS_blue09/blob/master/img/os.png?raw=true)
 
 
-----
 
 
 ### 2. 공개적 협업 (Public Collaboration)
