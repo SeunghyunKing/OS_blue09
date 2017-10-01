@@ -118,119 +118,183 @@ OSI의 보고서와 프로세스는 라이선스 확산의 전반적인 문제�
 
 ### 3.오픈소스 이용 가능 사례
 
-**서버용 오픈소스SW 목록**
+- #### 3-1. 서버용 오픈소스 SW 목록 ####  
 
--MySQL(http://www.mysql.com)
+
+
+- - ##### MySQL #####  
+(http://www.mysql.com)
 >분류 : DBMS  
 >라이선스 : GPL v2  
 >세계에서 가장 널리 사용되고 있는 대표적인 관계형 데이터베이스
 
 
--Apache Derby(http://db.apache.org/derby)
+----
+
+
+- - ##### Apache Derby #####  
+(http://db.apache.org/derby)
 >분류 : DBMS  
 >라이선스 : Apache v2  
 >IBM에서 기증한 cloudscape 소스 기반으로 개발된 Java 기반의 관계형 데이터베이스
 
 
-Oracle Berkeley DB(http://www.oracle.com/kr/products/database/berkeley-db/index.html)
+----
+
+
+- - ##### Oracle Berkeley DB #####  
+ (http://www.oracle.com/kr/products/database/berkeley-db/index.html)
 >분류 : DBMS  
 >라이선스 : AGPL or commercial, Sleepycat License  
 >슬리피캣을 인수한 오라클에서 제공하는 고성능 임베디드 데이터베이스
 
 
-CUBRID(http://www.cubrid.com)
+----
+
+
+- - ##### CUBRID #####  
+(http://www.cubrid.com)
 >분류 : DBMS  
 >라이선스 : GPL v2 & BSD  
 >인터넷 서비스 최적화를 목표로 개발된 국산 엔터프라이즈급 데이터베이스
 
 
-Firebird(http://www.firebirdsql.org)
+----
+
+
+- - ##### Firebird #####  
+(http://www.firebirdsql.org)
 >분류 : DBMS  
 >라이선스 : DPL & IPL  
 >모질라에서 제공하는 관계형 데이터베이스
 
 
-FreeBSD(http://www.freebsd.org)
+----
+
+
+- - ##### FreeBSD #####  
+(http://www.freebsd.org)
 >분류 : OS(BSD)  
 >라이선스 : FreeBSD License  
 >4.4 BSD Lite 2 기반의 정통 유닉스 운영체제
 
 
-Ubuntu(http://www.ubuntu.com)
+----
+
+
+- - ##### Ubuntu #####  
+(http://www.ubuntu.com)
 >분류 : OS(Linux)  
 >라이선스 : GPL & Various others  
 >캐노니컬(Canonical)에서 후원하는 데비안 기반의 리눅스 운영체제로 데스크톱 분야에서 가장 많은 유저층을 확보한 인기 있는 배포판
 
 
+----  
 
-**데스크탑용 오픈소스SW 목록**
 
-GnuCash(http://www.gnucash.org)
+- ### 3-2. 데스크탑용 오픈소스 SW목록 ###
+
+- - ##### GnuCash #####  
+(http://www.gnucash.org)
 >분류 : Accounting  
 >라이선스 : GPL  
 >개인 & 소규모 사업용 회계 프로그램
 
 
-Eclipse(http://www.eclipse.org)
+----
+
+
+- - ##### Eclipse #####  
+(http://www.eclipse.org)
 >분류 : Development Environments  
 >라이선스 : EPL  
 >자바기반 통합 개발 프로그램
 
 
-Mozilla Thunderbird(http://www.mozilla.org/ko/thunderbird)
+----
+
+
+- - ##### Mozilla Thunderbird #####  
+(http://www.mozilla.org/ko/thunderbird)
 >분류 : Editor  
 >라이선스 : MPL & GPL & LGPL  
 >이메일/뉴스 클라이언트
 
 
-Chrome(http://www.chromium.org)
+----
+
+
+- - ##### Chrome #####  
+(http://www.chromium.org)
 >분류 : Web Browser  
 >라이선스 : BSD &  Various others  
 >웹 브라우저
 
 
-Mozilla Firefox(http://www.mozilla.org/firefox)
+----
+
+
+- - ##### Mozilla Firefox #####  
+(http://www.mozilla.org/firefox)
 >분류 : Web Browser  
 >라이선스 : MPL v2  
 >웹 브라우저  
 
 
-Emacs(http://www.gnu.org/software/emacs)
+----
+
+
+- - ##### Emacs #####  
+(http://www.gnu.org/software/emacs)
 >분류 : Editor  
 >라이선스 : GPL v3  
 >GNU 프로젝트의 일부인 고성능 문서 편집기
 
 
-FileZilla(http://filezilla-project.org)
+----
+
+
+- - ##### FileZilla #####  
+(http://filezilla-project.org)
 >분류 : FTP  
 >라이선스 : GPL v2  
 >고속 FTP 클라이언트/서버
 
 
+----
 
-**클라우드분야 오픈소스SW 목록**
 
-Docker(https://www.docker.com)
+- ### 3-3. 클라우드분야 오픈소스SW 목록 ##  
+
+- - ##### Docker #####  
+(https://www.docker.com)
 >분류 : 가상화
 >라이선스 : Apache 2.0
 >리눅스컨테이너 가상화 기술. SW컨테이너 내에 애플리케이션 배포를 자동화하는 공개SW
 
 
-VirtualBox(https://www.virtualbox.org)
+----
+
+
+- - ##### VirtualBox #####
+(https://www.virtualbox.org)
 >분류 : 가상화
 >라이선스 : GPL v2, CDDL, PUEL
 >Windows, Mac, Linux 등 다른 OS를 함께 실행시킬 수 있는 가상OS 구동 프로그램
 
 
+----
 
-Hadoop(http://hadoop.apache.org)
+
+- - ##### Hadoop #####  
+(http://hadoop.apache.org)
 >분류 : 분산파일시스템
 >라이선스 : Apache 2.0
 >컴퓨터 클러스터를 이용하여 대용량 데이터 셋의 분산 처리를 지원하는 분산 파일 시스템
 
 
-
 ----
+
 
 ### 4. 사용시 얻을 수 있는 효과
 
