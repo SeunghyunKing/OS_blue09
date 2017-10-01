@@ -42,7 +42,7 @@
 위에서 설명한것과 같은 오픈소스들을
 무료, 유료 기준과, 공개 비공개 기준으로 간단히 정리하면 이러하다.
 
-![Alt text](/https://github.com/SeunghyunKing/OS_blue09/blob/master/img/os.png?raw=true)
+![Alt text](https://github.com/SeunghyunKing/OS_blue09/blob/master/img/os.png?raw=true)
 
 
 ----
@@ -328,7 +328,7 @@ Hadoop(http://hadoop.apache.org)
 
 ### 주요 오픈소스SW 라이선스의 특징비교 ###
 
-![Alt text] (https://github.com/SeunghyunKing/OS_blue09/blob/master/img/oss_lic.png?raw=true)
+![Alt text](https://github.com/SeunghyunKing/OS_blue09/blob/master/img/oss_lic.png?raw=true)
 
 
 
@@ -363,7 +363,7 @@ Firefox는 유명한 오픈소스 웹부라우저로서 현재 MPL, GPL, LGPL �
 
 ## OSD 오픈소스의 조건 10가지 ##
 
-![Alt text] (https://github.com/SeunghyunKing/OS_blue09/blob/master/img/osd.png?raw=true)
+![Alt text](https://github.com/SeunghyunKing/OS_blue09/blob/master/img/osd.png?raw=true)
 
 - 자유로운 재배포 오픈 소스를 이용하여 제작한 소프트웨어의 자유로운 배포를 허용해야 합니다. 그리고 사용된 오픈 소스에 대한 어떠한 비용도 받지 않아야 합니다.  
 이와 같은 원칙이 지켜지지 않는다면 오픈 소스를 개발하는 사람들의 개발의지가 꺾일 것이며, 이로 인해 장기적인 이익도 기대할 수 없기 때문입니다.
