@@ -74,7 +74,11 @@
 OSI의 보고서와 프로세스는 라이선스 확산의 전반적인 문제에 대한 폭 넓은 인식을 높이고 새로운 라이선스의 생성과 사용을 줄이는데 도움이되었다.
 
 
-@[동영상자료](https://www.youtube.com/watch?v=4ZHloJVhcRY)
+
+다음 동영상 자료를 시청하면 이해가 편할것이다.
+
+
+[![동영상자료](https://img.youtube.com/vi/4ZHloJVhcRY/0.jpg)](https://www.youtube.com/watch?v=4ZHloJVhcRY)
 
 
 ----
