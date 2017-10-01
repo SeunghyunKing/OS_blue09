@@ -267,7 +267,7 @@ Hadoop(http://hadoop.apache.org)
 
 마이크로소프트는 오픈소스 .Net Core 1.0을 공개했고, 캐노니컬(Canonical)과 손잡고 윈도우 10에 우분투를 도입했으며, 프리BSD(FreeBSD)와 함께 애저용 이미지를 공개했고, 자마린 인수 후에는 소프트웨어 개발 키트를 오픈소스화 했다. 이 밖에도 마이크로소프트는 레드햇, 수세 등과 손잡고 이들 솔루션을 자체 제품에 지원하고 있다.
 
-![Alt text](./OS_blue09/img/bigger.png)
+![Alt text](https://github.com/SeunghyunKing/OS_blue09/blob/master/img/bigger.png?raw=true)
 
 >원문보기 http://www.itworld.co.kr/t/62086/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4/106382#csidx00b6c83d84296e39c4c134fdca781b7
 
