@@ -1,7 +1,6 @@
+![Alt Text](http://opensourcealliance.or.kr/wp/wp-content/uploads/2015/05/opensource_slide02-1040x400.jpg)
 # 오픈소스, 오픈된 소스인걸까 #
 
-
-![Alt Text](http://opensourcealliance.or.kr/wp/wp-content/uploads/2015/05/opensource_slide02-1040x400.jpg)
 
 
 ----
