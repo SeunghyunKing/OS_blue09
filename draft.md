@@ -155,7 +155,7 @@ OSI의 보고서와 프로세스는 라이선스 확산의 전반적인 문제�
 
 ----
 
-### 2. 장점
+### 두번째, 장점
 
 
 오픈소스를 이용하게 되면 공개된 소스코드를 이용해 자신이 **원하는 대로 사용**, 수정을 통해 자유롭게 새로운 것을 만들어 낼 수 있다는 점이 있다.  
@@ -165,13 +165,13 @@ OSI의 보고서와 프로세스는 라이선스 확산의 전반적인 문제�
 
 ----
 
-### 3. 오픈소스 이용 사례
+### 세번째, 오픈소스 이용 사례
 
-- #### 3-1. 서버용 오픈소스 SW 목록 ####  
+#### 서버용 오픈소스 SW 목록 ####  
 
 
 
-- - ##### MySQL #####  
+-  ##### MySQL #####  
 (http://www.mysql.com)
 >분류 : DBMS  
 >라이선스 : GPL v2  
@@ -181,7 +181,7 @@ OSI의 보고서와 프로세스는 라이선스 확산의 전반적인 문제�
 
 
 
-- - ##### Apache Derby #####
+- ##### Apache Derby #####
 (http://db.apache.org/derby)
 >분류 : DBMS  
 >라이선스 : Apache v2  
@@ -191,7 +191,7 @@ OSI의 보고서와 프로세스는 라이선스 확산의 전반적인 문제�
 
 
 
-- - ##### Oracle Berkeley DB #####  
+- ##### Oracle Berkeley DB #####  
  (http://www.oracle.com/kr/products/database/berkeley-db/index.html)
 >분류 : DBMS  
 >라이선스 : AGPL or commercial, Sleepycat License  
@@ -201,7 +201,7 @@ OSI의 보고서와 프로세스는 라이선스 확산의 전반적인 문제�
 
 
 
-- - ##### CUBRID #####  
+- ##### CUBRID #####  
 (http://www.cubrid.com)
 >분류 : DBMS  
 >라이선스 : GPL v2 & BSD  
@@ -211,7 +211,7 @@ OSI의 보고서와 프로세스는 라이선스 확산의 전반적인 문제�
 
 
 
-- - ##### Firebird #####  
+- ##### Firebird #####  
 (http://www.firebirdsql.org)
 >분류 : DBMS  
 >라이선스 : DPL & IPL  
@@ -221,7 +221,7 @@ OSI의 보고서와 프로세스는 라이선스 확산의 전반적인 문제�
 
 
 
-- - ##### FreeBSD #####  
+- ##### FreeBSD #####  
 (http://www.freebsd.org)
 >분류 : OS(BSD)  
 >라이선스 : FreeBSD License  
@@ -231,7 +231,7 @@ OSI의 보고서와 프로세스는 라이선스 확산의 전반적인 문제�
 
 
 
-- - ##### Ubuntu #####  
+- ##### Ubuntu #####  
 (http://www.ubuntu.com)
 >분류 : OS(Linux)  
 >라이선스 : GPL & Various others  
@@ -241,9 +241,9 @@ OSI의 보고서와 프로세스는 라이선스 확산의 전반적인 문제�
 ----
 
 
-- ### 3-2. 데스크탑용 오픈소스 SW목록 ###
+#### 데스크탑용 오픈소스 SW목록 ####
 
-- - ##### GnuCash #####  
+- ##### GnuCash #####  
 (http://www.gnucash.org)
 >분류 : Accounting  
 >라이선스 : GPL  
@@ -253,7 +253,7 @@ OSI의 보고서와 프로세스는 라이선스 확산의 전반적인 문제�
 
 
 
-- - ##### Eclipse #####  
+- ##### Eclipse #####  
 (http://www.eclipse.org)
 >분류 : Development Environments  
 >라이선스 : EPL  
@@ -263,7 +263,7 @@ OSI의 보고서와 프로세스는 라이선스 확산의 전반적인 문제�
 
 
 
-- - ##### Mozilla Thunderbird #####  
+- ##### Mozilla Thunderbird #####  
 (http://www.mozilla.org/ko/thunderbird)
 >분류 : Editor  
 >라이선스 : MPL & GPL & LGPL  
@@ -273,7 +273,7 @@ OSI의 보고서와 프로세스는 라이선스 확산의 전반적인 문제�
 
 
 
-- - ##### Chrome #####  
+- ##### Chrome #####  
 (http://www.chromium.org)
 >분류 : Web Browser  
 >라이선스 : BSD &  Various others  
@@ -283,7 +283,7 @@ OSI의 보고서와 프로세스는 라이선스 확산의 전반적인 문제�
 
 
 
-- - ##### Mozilla Firefox #####  
+- ##### Mozilla Firefox #####  
 (http://www.mozilla.org/firefox)
 >분류 : Web Browser  
 >라이선스 : MPL v2  
@@ -293,7 +293,7 @@ OSI의 보고서와 프로세스는 라이선스 확산의 전반적인 문제�
 
 
 
-- - ##### Emacs #####  
+- ##### Emacs #####  
 (http://www.gnu.org/software/emacs)
 >분류 : Editor  
 >라이선스 : GPL v3  
@@ -303,7 +303,7 @@ OSI의 보고서와 프로세스는 라이선스 확산의 전반적인 문제�
 
 
 
-- - ##### FileZilla #####  
+- ##### FileZilla #####  
 (http://filezilla-project.org)
 >분류 : FTP  
 >라이선스 : GPL v2  
@@ -313,9 +313,9 @@ OSI의 보고서와 프로세스는 라이선스 확산의 전반적인 문제�
 ----
 
 
-- ### 3-3. 클라우드분야 오픈소스SW 목록 ##  
+#### 클라우드분야 오픈소스SW 목록 ####  
 
-- - ##### Docker #####  
+- ##### Docker #####  
 (https://www.docker.com)
 >분류 : 가상화  
 >라이선스 : Apache 2.0  
@@ -325,7 +325,7 @@ OSI의 보고서와 프로세스는 라이선스 확산의 전반적인 문제�
 
 
 
-- - ##### VirtualBox #####
+- ##### VirtualBox #####
 (https://www.virtualbox.org)
 >분류 : 가상화  
 >라이선스 : GPL v2, CDDL, PUEL  
@@ -335,7 +335,7 @@ OSI의 보고서와 프로세스는 라이선스 확산의 전반적인 문제�
 
 
 
-- - ##### Hadoop #####  
+- ##### Hadoop #####  
 (http://hadoop.apache.org)
 >분류 : 분산파일시스템  
 >라이선스 : Apache 2.0  
@@ -345,7 +345,7 @@ OSI의 보고서와 프로세스는 라이선스 확산의 전반적인 문제�
 ----
 
 
-### 4. 사용시 얻을 수 있는 효과
+### 네번째, 오픈소스 사용시 얻을 수 있는 효과
 
 >- **경제적 효율성** : 서버도입 및 유지보수 비용감축, 제품 개발 시 오픈소스 소프트웨어를 이용하여 시간,인력에서의 투입비용 절감  
 >
@@ -364,10 +364,11 @@ OSI의 보고서와 프로세스는 라이선스 확산의 전반적인 문제�
 # 4. 현재 상황 및 전망 #
 
 
-----
 
 
-**2016년** 공개SW 시장은 전년대비 13.6% 상승하여 약 1,602억 원을 기록 국내 공개SW 시장은 2015년부터 2020년도까지 6년간 약 2배 성장할 것으로 전망하였다.  
+
+## 2016년, ##
+공개SW 시장은 전년대비 13.6% 상승하여 약 1,602억 원을 기록 국내 공개SW 시장은 2015년부터 2020년도까지 6년간 약 2배 성장할 것으로 전망하였다.  
 국내 공개SW 시장은 2015년부터 2020년도까지 6년간 연평균 성장률(CAGR) 15.2%로 2020년에는2,862억원에 도달할 것으로 전망되고 있으며, 클라우드, 빅데이터 등 신시장에서 공개SW 활용이 확대되면서 공개SW 활용도는 지속적으로 상승하고 있다.  
 
 공개SW 시장을 SW와 서비스 부분으로 나누면, 2017년에는 SW시장이 약 700억원, 서비스 시장은 약 1,134억원으로 추정 공개SW 기반의 서비스가 다양해지고, 최신 기술 기반의 시스템 구축 투자 비중이 확대되면서 서비스 시장의 성장률이 SW 시장의 성장률보다 높게 나타나고 있음을 알 수 있다.  
