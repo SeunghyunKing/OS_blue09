@@ -1,6 +1,4 @@
-![Alt Text](http://www.irisns.com/wp-content/uploads/2015/07/open-source-software.jpg "Optional title")
-
-
+![Alt Text](http://www.irisns.com/wp-content/uploads/2015/07/open-source-software.jpg)
 
 # 1.오픈소스란 무엇인가? #
 
