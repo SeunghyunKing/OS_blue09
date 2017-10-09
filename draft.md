@@ -394,7 +394,6 @@ OSI의 보고서와 프로세스는 라이선스 확산의 전반적인 문제�
 
 ![Alt text](https://github.com/SeunghyunKing/OS_blue09/blob/master/img/bigger.png?raw=true)
 
->원문보기 http://www.itworld.co.kr/t/62086/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4/106382#csidx00b6c83d84296e39c4c134fdca781b7
 
 공공부문의 공개SW 도입은 다양한 부처 및 공공기관에서 활발히 추진되고 있다.  
 정부통합전산센터를 비롯해서 국방부, 행정자치부 그리고 지방자치단체, 공기업 등 그 범위가 넓어지고, 적용분야도 다양해지고 있다.
@@ -551,3 +550,5 @@ Wikipedia
 오픈 소스, 오픈 소스 혁명의 목소리 - 에릭 레이먼드, 리처드 스톨만, 리누스 토발즈, 팀 오라일리 외
 
 공개SW포털(http://www.oss.kr/)
+
+itworld(http://www.itworld.co.kr/t/62086/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4/106382#csidx00b6c83d84296e39c4c134fdca781b7)
